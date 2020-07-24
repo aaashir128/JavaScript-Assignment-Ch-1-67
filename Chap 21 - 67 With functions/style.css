@@ -1,0 +1,21 @@
+img{
+    width: 60px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.tableOfStudents{
+    text-align: right;
+    float: left;
+    
+}
+table{
+    text-align: center;
+}
+
+.bgimage{
+    width: 500px;
+    height: 600px;
+}
